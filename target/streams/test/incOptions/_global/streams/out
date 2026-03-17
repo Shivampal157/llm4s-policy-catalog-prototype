@@ -1,0 +1,10 @@
+[debug] Created transactional ClassFileManager with tempDir = D:\llm4s2\llm4s-policy-catalog-prototype\target\scala-3.7.1\test-classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Created transactional ClassFileManager with tempDir = D:\llm4s2\llm4s-policy-catalog-prototype\target\scala-3.7.1\test-classes.bak
+[debug] About to delete class files:
+[debug] We backup class files:
+[debug] Registering generated classes:
+[debug] 	PolicyEngineSpec.class
+[debug] 	PolicyEngineSpec.tasty
+[debug] Removing the temporary directory used for backing up class files: D:\llm4s2\llm4s-policy-catalog-prototype\target\scala-3.7.1\test-classes.bak
